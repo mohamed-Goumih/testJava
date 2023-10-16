@@ -1,0 +1,16 @@
+# Fichiers compilés
+*.class
+# Fichiers de package
+*.jar
+*.war
+*.ear
+# Fichiers générés automatiquement
+*.log
+*.ctxt
+# Dossier de build
+target/
+# Autres fichiers/folders à #ignorer
+*.swp
+*~
+.#*
+.DS_Store
